@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fukgo
+- 👋 Hi, I’m @youngo
 - 👀 I’m interested in web doveloping
 - 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on web
